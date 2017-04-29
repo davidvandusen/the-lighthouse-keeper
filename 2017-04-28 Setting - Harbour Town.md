@@ -9,7 +9,7 @@ exchange for crafted goods.
 ## Residents
 
 The workers in Harbour Town are highly skilled craftspeople, and their knowledge is quite advanced. They fulfil orders
-for weapons and armour that come across the sea from patrons in less tranquil lands. The ore and lumber that these
+for weapons and armor that come across the sea from patrons in less tranquil lands. The ore and lumber that these
 craftspeople use come from the mountains to the east of town.
 
 ## Districts

@@ -1,19 +1,19 @@
 # Log: The Pirates At Bay
 
 The Lighthouse Keeper is quiet, as usual, around sundown on a mid-spring day. As is not unusual, a couple groups of
-patrons arrive at dusk to have meetings, of sorts. Inside the tavern, two shore workers sit separately at booths. Two
-dwarfs, a ranger and a fighter, sit with two stools between them at the bar. A group of five men with adventuring gear 
-enter and head to a booth in the corner. They are followed by a group of three artisan workers who are clearly trying to
-obscure their faces with hoods, who sit at another booth.
+patrons arrive at dusk to have meetings of sorts. Inside the tavern, two shore workers sit separately at booths. Two
+dwarfs in chain mail, a ranger and a fighter, sit with two stools between them at the bar. A group of five men with 
+adventuring gear enter and head to a booth in the corner. They are followed by a group of three guild workers who are 
+clearly trying to obscure their faces with hoods, who sit at another booth.
 
 Across from the tavern at the pier, a tiefling sorcerer waves goodbye to his companions who are setting out on an 
 adventure that will take them to a far off land. Noticing the interesting groups of people entering the Lighthouse 
-Keeper, he disguises himself as a member of the hooded artisans and follows them in and sits with them at their table. 
+Keeper, he disguises himself as a member of the hooded artisans, follows them in and sits with them at their table. 
 They barely notice as they are wallowing in their self-pity with regard to their inability to protect their families 
 from a threat that has recently come to town.
 
 A gnome wizard enters after these groups and sits at the bar next to the less smelly of the dwarfs. He orders "the 
-smallest biggest drink" that they server, and is given strong ale in a teacup.
+smallest biggest drink" that they serve, and is given strong ale in a teacup.
 
 Outside of the tavern a half-elf fighter is walking by and is snapped out of his self-reflection by suspicious sounds 
 that appear to be coming from behind the warehouses.
@@ -37,8 +37,8 @@ bandits hauling a tarp which is wrapped around some large lumpy payload and init
 - Gold: none
 
 A battle ensues with those three pirates, another two that came running back from further down the alley, and the pirate
-captain. After killing the pirate captain as well as two of his crew, the tiefling diffuses the tension and invites one
-of the pirates into the tavern for a beer and a chat. Another pirate is asleep in the alley, and a third has run away.
+captain. After killing the pirate captain as well as three of his crew, the tiefling diffuses the tension and invites 
+one of the pirates into the tavern for a beer and a chat. The other pirate is left sleeping in the alley.
 
 During the battle, the tiefling learned that the five adventurers at the table in the corner are patiently waiting for
 someone and are reluctant to get involved in anything that is not of their concern. Also, he discovered that pirates are
