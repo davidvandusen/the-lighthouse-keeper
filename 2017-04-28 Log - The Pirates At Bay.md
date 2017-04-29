@@ -32,7 +32,8 @@ bandits hauling a tarp which is wrapped around some large lumpy payload and init
 
 ## Battle: Pirates!
 
-- Experience: 300
+- Experience for defeated enemies: 675 (divided by 6 adventurers, ~115 each)
+- Experience for saving pirate abductee: 25 each
 - Spoils: 3 scimitars, 2 light crossbows, 15 crossbow bolts, studded leather armor
 - Gold: none
 
