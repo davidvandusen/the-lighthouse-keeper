@@ -24,13 +24,13 @@
 - Background: Soldier
 - Alignment: Chaotic Neutral
 
-## Gizmo Whizbanger
+## Gizmo Whizzbanger
 
 - Player: Derya
 - Race: Gnome
 - Class: Wizard
-- Background: [TODO]
-- Alignment: [TODO]
+- Background: Sage
+- Alignment: Neutral Good
 
 ## Kvothe
 
