@@ -18,3 +18,4 @@ The various towns that are visited are described here.
 ## Quest Logs
 
 - 2017-04-28 - [The Pirates At Bay](2017-04-28%20Log%20-%20The%20Pirates%20At%20Bay.md)
+- 2017-05-03 - [Beneath the Hills](2017-05-03%20Log%20-%20Beneath%20the%20Hills.md)
