@@ -24,7 +24,7 @@ trunks, and large stones appear to have been hurled.
 
 Kvothe, the half-elf druid, sends his owl to investigate from higher up. The owl beckons them to an area filled with the
 signs of a dramatic conflict. In the middle of this area lays Veradda Stoor's dead body. Her fine robes are slashed and 
-bloodied. She is clearly a powerful, talented adventurer, and her assailants must have been very string indeed if they
+bloodied. She is clearly a powerful, talented adventurer, and her assailants must have been very strong indeed if they
 were to annihilate her so.
 
 Near her body is a notebook filled with information regarding tracking down treasures. This was clearly Veradda's 
