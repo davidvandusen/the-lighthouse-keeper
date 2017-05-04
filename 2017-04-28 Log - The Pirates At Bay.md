@@ -32,11 +32,6 @@ bandits hauling a tarp which is wrapped around some large lumpy payload and init
 
 ## Battle: Pirates!
 
-- Experience for defeated enemies: 675 (divided by 6 adventurers, ~115 each)
-- Experience for saving pirate abductee: 25 each
-- Spoils: 3 scimitars, 2 light crossbows, 15 crossbow bolts, studded leather armor
-- Gold: none
-
 A battle ensues with those three pirates, another two that came running back from further down the alley, and the pirate
 captain. After killing the pirate captain as well as three of his crew, the tiefling diffuses the tension and invites 
 one of the pirates into the tavern for a beer and a chat. The other pirate is left sleeping in the alley.
@@ -61,3 +56,10 @@ The poster is pocketed gleefully by the gnome.
 The group shows interest in this adventure. The man that they saved is grateful for his life being saved, and pays for
 each of the adventurers to stay at the inn at the Lighthouse Keeper overnight. He then retires to his own room to nurse
 his bruises.
+
+## Rewards
+
+- Experience for defeated enemies: 675 (divided by 6 adventurers, ~115 each)
+- Experience for saving pirate abductee: 25 each
+- Spoils: 3 scimitars, 2 light crossbows, 15 crossbow bolts, studded leather armor
+- Gold: none

@@ -48,10 +48,10 @@
 - Background: Outlander
 - Alignment: Chaotic Good
 
-## [TODO]
+## Candor
 
 - Player: Garrett
 - Race: Tiefling
 - Class: Sorcerer
-- Background: [TODO]
-- Alignment: [TODO]
+- Background: Noble
+- Alignment: Lawful Good
