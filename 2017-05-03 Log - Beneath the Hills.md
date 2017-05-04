@@ -29,7 +29,7 @@ were to annihilate her so.
 
 Near her body is a notebook filled with information regarding tracking down treasures. This was clearly Veradda's 
 personal notes. Several pages at the end of the book are torn out. The text on the pages leading up to the torn ones
-indicate that the missing pages must have included what details she knew about the treasure of the Cult of the Dragon.
+indicates that the missing pages must have included what details she knew about the treasure of the Cult of the Dragon.
 
 Upon searching her body, five scrolls are found. It turns out, Veradda is a well prepared adventurer and has copies of
 the notes detailing the locations of the caches of treasure that she was recruiting adventurers to help her find.
@@ -41,7 +41,7 @@ Upon discussing the notes, the party agrees that it's a race against time to fin
 competitors do, and set out in haste toward the first cache, which is in a cave quite near to where they are.
 
 When they arrive at the cave, they investigate the entrance to see that many hundreds of goblins and at least two
-giants were recently here. They cautiously enter the cave, in spite of the obvious danger.
+giants were recently there. They cautiously enter the cave, in spite of the obvious danger.
 
 ## Battle: Goblins
 
