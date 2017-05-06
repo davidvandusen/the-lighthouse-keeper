@@ -91,6 +91,8 @@ tricks to entertain him.
 Satisfied that the cave has no more to offer, the party leaves, carrying Blooddrinker over the piles of goblin bodies.
 They set up camp outside the cave entrance and have a long rest before deciding which treasure cache to venture to next.
 
+![Blooddrinker the bear](2017-05-03%20Blooddrinker%20the%20bear.jpg)
+
 ## Rewards
 
 - Experience for defeated enemies: 675 (divided by 5 adventurers, 135 each)
