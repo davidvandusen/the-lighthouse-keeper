@@ -19,3 +19,4 @@ The various towns that are visited are described here.
 
 - 2017-04-28 - [The Pirates At Bay](2017-04-28%20Log%20-%20The%20Pirates%20At%20Bay.md)
 - 2017-05-03 - [Beneath the Hills](2017-05-03%20Log%20-%20Beneath%20the%20Hills.md)
+- 2017-05-09 - [Against the Frost](2017-05-09%20Log%20-%20Against%20the%20Frost.md)
