@@ -20,5 +20,5 @@ The various towns that are visited are described here.
 - 2017-04-28 - [The Pirates At Bay](2017-04-28%20Log%20-%20The%20Pirates%20At%20Bay.md)
 - 2017-05-03 - [Beneath the Hills](2017-05-03%20Log%20-%20Beneath%20the%20Hills.md)
 - 2017-05-09 - [Against the Frost](2017-05-09%20Log%20-%20Against%20the%20Frost.md)
-- 2017-05-16 - [Upon the Stones and Through the Fires](2017-05-16%20Log%20-%20Upon%20the%20Stones%20and%20Through%20the%20Fire.md)
+- 2017-05-16 - [Upon the Stones and Through the Fires](2017-05-16%20Log%20-%20Upon%20the%20Stones%20and%20Through%20the%20Fires.md)
 - 2017-05-25 - [Through the Fires and Above the Clouds](2017-05-25%20Log%20-%20Through%20the%20Fires%20and%20Above%20the%20Clouds.md)
