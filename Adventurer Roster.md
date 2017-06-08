@@ -55,3 +55,11 @@
 - Class: Sorcerer
 - Background: Noble
 - Alignment: Lawful Good
+
+## Io
+
+- Player: Natalie
+- Race: Tiefling
+- Class: Rogue
+- Background: Criminal
+- Alignment: Chaotic Neutral
