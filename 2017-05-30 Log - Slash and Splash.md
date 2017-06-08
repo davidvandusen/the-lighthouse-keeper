@@ -61,9 +61,9 @@ weapon smiths store.
 Also in the boat is a small purse of copper coins. Then, further investigation reveals that the boat has a false bottom
 which contains a pointed hat made of woven aquatic plants.
 
-Finally the party decides that they need more information from the dead sahuagins and put the malenti and priestess'
-bodies into the boat and ferries them out of the tunnel. They will look for a temple in town where speak with dead can
-be performed so that they can ask questions to the corpses.
+Finally the party decides that they need more information from the dead sahuagins and put the malenti's body into the 
+boat and ferries them out of the tunnel. They will look for a temple in town where speak with dead can be performed so 
+that they can ask questions to the corpses.
 
 ## Rewards
 
