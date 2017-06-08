@@ -1,5 +1,13 @@
 # Adventurer Roster
 
+## Candor
+
+- Player: Garrett
+- Race: Tiefling
+- Class: Sorcerer
+- Background: Noble
+- Alignment: Lawful Good
+
 ## Carric
 
 - Player: Chuck
@@ -8,15 +16,7 @@
 - Background: Outlander
 - Alignment: Chaotic Good
 
-## Ekemon "Random"
-
-- Player: Sumeet
-- Race: Tiefling
-- Class: Wizard
-- Background: Outlander
-- Alignment: Chaotic Good
-
-## Gaulan
+## Gavlan
 
 - Player: Wesley
 - Race: Dwarf
@@ -24,13 +24,21 @@
 - Background: Soldier
 - Alignment: Chaotic Neutral
 
-## Gizmo Whizzbanger
+## Gizmo
 
 - Player: Derya
 - Race: Gnome
 - Class: Wizard
 - Background: Sage
 - Alignment: Neutral Good
+
+## Io
+
+- Player: Natalie
+- Race: Tiefling
+- Class: Rogue
+- Background: Criminal
+- Alignment: Chaotic Neutral
 
 ## Kvothe
 
@@ -40,26 +48,18 @@
 - Background: Far Traveller
 - Alignment: Chaotic Neutral
 
-## Taklinn Torunn
+## Random
+
+- Player: Sumeet
+- Race: Tiefling
+- Class: Wizard
+- Background: Outlander
+- Alignment: Chaotic Good
+
+## Taklinn
 
 - Player: Mario
 - Race: Dwarf
 - Class: Ranger
 - Background: Outlander
 - Alignment: Chaotic Good
-
-## Candor
-
-- Player: Garrett
-- Race: Tiefling
-- Class: Sorcerer
-- Background: Noble
-- Alignment: Lawful Good
-
-## Io
-
-- Player: Natalie
-- Race: Tiefling
-- Class: Rogue
-- Background: Criminal
-- Alignment: Chaotic Neutral
