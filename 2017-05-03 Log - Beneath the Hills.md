@@ -98,5 +98,4 @@ They set up camp outside the cave entrance and have a long rest before deciding 
 - Experience for defeated enemies: 675 (divided by 5 adventurers, 135 each)
 - Experience for saving Blooddrinker the bear: 25 each
 - Spoils: 2 vials of Alchemist's Fire, 1 Potion of Healing, necklace with 20 copper charms
-- Gold: none
 - Downtime days: 5

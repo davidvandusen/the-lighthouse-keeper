@@ -29,7 +29,6 @@ divided and carried off by the adventurers.
 - Experience for defeated enemies: 300 (divided by 4 adventurers, 75 each)
 - Experience for deactivating the magic symbol: 25 each
 - Spoils: 3 topaz, melted silver
-- Gold: none
 - Downtime days: 2.5
 
 # Log: Above the Clouds

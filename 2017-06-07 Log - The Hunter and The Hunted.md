@@ -91,6 +91,4 @@ Charl goes into his home just before the rest of the party arrives.
 ## Rewards
 
 - Experience from defeated enemies: 1400 (divided by 7 adventurers, 200 each)
-- Spoils: none
-- Gold: none
 - Downtime days: 5

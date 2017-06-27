@@ -39,7 +39,6 @@ remaining thing of worth is a book of names of cult members that was expertly ex
 - Experience for helping the galeb duhr: 25 each
 - Experience for gaining entrance to the pyramid: 25 each
 - Spoils: scroll of comprehend languages, giant silver nose ring, Cult of the Dragon ledger
-- Gold: none
 - Downtime days: 5
 
 # Log: Through the Fires
@@ -67,5 +66,4 @@ flame, shrouded by smoke, walking toward them.
 
 - Experience for defeated enemies: 250 (divided by 6 adventurers, ~45 each)
 - Spoils: scroll of disguise self
-- Gold: none
 - Downtime days: 2.5
