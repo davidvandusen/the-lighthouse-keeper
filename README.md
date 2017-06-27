@@ -24,3 +24,6 @@ The various towns that are visited are described here.
 - 2017-05-25 - [Through the Fires and Above the Clouds](2017-05-25%20Log%20-%20Through%20the%20Fires%20and%20Above%20the%20Clouds.md)
 - 2017-05-30 - [Slash and Splash](2017-05-30%20Log%20-%20Slash%20and%20Splash.md)
 - 2017-06-07 - [The Hunter and The Hunted](2017-06-07%20Log%20-%20The%20Hunter%20and%20The%20Hunted.md)
+- 2017-06-13 - [Horrible Night To Have A Curse](2017-06-13%20Log%20-%20Horrible%20Night%20To%20Have%20A%20Curse.md)
+- 2017-06-20 - [Family Outing](2017-06-20%20Log%20-%20Family%20Outing.md)
+- 2017-06-21 - [Searching for Something](2017-06-21%20Log%20-%20Searching%20for%20Something.md)

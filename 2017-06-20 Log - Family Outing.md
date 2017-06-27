@@ -1,5 +1,7 @@
 # Family Outing
 
+![Waxing gibbous](http://quanyindivination.com/wp-content/themes/quanyindivination/images/moon-48.png)
+
 The party awake in the Zhentarim hideout. They are called on to do their first mission for the faction. Gizmo can't come 
 because he's grappling with his curse. They are being sent to investigate why an order of magic items hasn't arrived 
 from a wizard who lives in a protected wood two days to the south of the town.
