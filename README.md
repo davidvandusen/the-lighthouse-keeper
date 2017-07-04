@@ -27,3 +27,5 @@ The various towns that are visited are described here.
 - 2017-06-13 - [Horrible Night To Have A Curse](2017-06-13%20Log%20-%20Horrible%20Night%20To%20Have%20A%20Curse.md)
 - 2017-06-20 - [Family Outing](2017-06-20%20Log%20-%20Family%20Outing.md)
 - 2017-06-21 - [Searching for Something](2017-06-21%20Log%20-%20Searching%20for%20Something.md)
+- 2017-06-27 - [Sticky Situation](2017-06-27%20Log%20-%20Sticky%20Situation.md)
+- 2017-06-28 - [Town Under](2017-06-28%20Log%20-%20Town%20Under.md)
