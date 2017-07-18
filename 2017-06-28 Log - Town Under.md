@@ -60,3 +60,4 @@ Then, all goes eerily quiet.
 - Experience for finding the inverse town: 25
 - Spoils: 6 onyx
 - Treasure: 6 beads of force
+- Downtime days: 5

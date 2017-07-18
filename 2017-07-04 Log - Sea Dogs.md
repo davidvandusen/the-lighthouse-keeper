@@ -35,3 +35,4 @@ party, but clearly have no intent to kill. The party is not so merciful and ends
 - Experience for saving companions: 50 each
 - Spoils: 2 pincer staffs, 4 sticky shields, 4 spears, 5 gold bracelets, pair of bone dice
 - Treasure:  +1 non-magical warhammer, +1 non-magical dagger +1 non-magical hand crossbow
+- Downtime days: 5

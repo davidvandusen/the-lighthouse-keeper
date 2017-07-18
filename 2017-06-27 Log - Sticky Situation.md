@@ -87,3 +87,4 @@ The hoard is taken down to the river, the boat is unfolded, and the group floats
 - Spoils: alchemy jug, scroll of blade ward
 - Treasure: 7 figurines, combination box, immovable rod, folding boat, 2 pinches of dust of drying, potion of water
   breathing, universal solvent
+- Downtime days: 5

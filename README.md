@@ -30,3 +30,5 @@ The various towns that are visited are described here.
 - 2017-06-27 - [Sticky Situation](2017-06-27%20Log%20-%20Sticky%20Situation.md)
 - 2017-06-28 - [Town Under](2017-06-28%20Log%20-%20Town%20Under.md)
 - 2017-07-04 - [Sea Dogs](2017-07-04%20Log%20-%20Sea%20Dogs.md)
+- 2017-07-05 - [Holey Cloaks](2017-07-05%20Log%20-%20Holey%20Cloaks.md)
+- 2017-07-11 - [Space Ghost](2017-07-11%20Log%20-%20Space%20Ghost.md)
