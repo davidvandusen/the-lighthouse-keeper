@@ -33,7 +33,7 @@ Just then a Kuo Toa archpriest arrives and flight seems to become hopeless. Luck
 pirates has rowed to shore and makes quick work of the captors. The archpriest flees and the adventurers are taken 
 aboard the pirates' ship.
 
-## Meeting with the Correrris
+## Meeting with Correrris
 
 The leader of this pirate band is none other than Correrris, the legendary half-orc sorceress who is the scourge of 
 these seas. She meets with the adventurers and inquires about the scepter of mind control. She had sent a man to claim
