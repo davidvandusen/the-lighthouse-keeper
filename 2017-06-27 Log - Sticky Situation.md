@@ -1,5 +1,7 @@
 # Sticky Situation
 
+![Waxing gibbous](http://quanyindivination.com/wp-content/themes/quanyindivination/images/moon-65.png)
+
 Gizmo, coming out of his first lycanthropic transformation is ready to accompany Power and Gavlan on a mission. They,
 and Ranryn, are summoned by the Dachs, the werewolf that bit Gizmo and helped him learn to control his bloodlust. He
 sends them on a mission to see whether some universal solvent can be found in the tunnels underneath the magic schools

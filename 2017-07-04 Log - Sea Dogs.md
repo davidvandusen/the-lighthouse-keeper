@@ -1,5 +1,7 @@
 # Sea Dogs
 
+![Waxing gibbous](http://quanyindivination.com/wp-content/themes/quanyindivination/images/moon-70.png)
+
 The party arrives back at the hideout of the Zhentarim and deliver the universal solvent. They are rewarded with 
 replacements for their silvered weapons.
 

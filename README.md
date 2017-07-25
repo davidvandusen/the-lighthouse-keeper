@@ -32,3 +32,4 @@ The various towns that are visited are described here.
 - 2017-07-04 - [Sea Dogs](2017-07-04%20Log%20-%20Sea%20Dogs.md)
 - 2017-07-05 - [Holey Cloaks](2017-07-05%20Log%20-%20Holey%20Cloaks.md)
 - 2017-07-11 - [Space Ghost](2017-07-11%20Log%20-%20Space%20Ghost.md)
+- 2017-07-18 - [Water World War](2017-07-18%20Log%20-%20Water%20World%20War.md)
