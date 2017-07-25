@@ -1,6 +1,6 @@
 # Space Ghost
 
-![Waxing gibbous](http://quanyindivination.com/wp-content/themes/quanyindivination/images/moon-100.png)
+![Waning crescent](http://quanyindivination.com/wp-content/themes/quanyindivination/images/moon-98.png)
 
 Following the magical compass, the party continues climbing the mountainous island to its peak. On the peak are strange,
 religious looking structures. Four long walls in the shape of a cross with a small pyramid in the center where the walls

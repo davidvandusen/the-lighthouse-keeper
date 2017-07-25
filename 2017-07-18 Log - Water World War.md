@@ -1,6 +1,6 @@
 # Water World War
 
-![Waxing gibbous](http://quanyindivination.com/wp-content/themes/quanyindivination/images/moon-5.png)
+![Waxing crescent](http://quanyindivination.com/wp-content/themes/quanyindivination/images/moon-5.png)
 
 The party, now stranded on a sparse archipelago five day's sailing to the north of Harbour Town must come up with a plan
 to survive, rescue their comrades, and get back to the mainland. They begin to encircle the island in search of some
