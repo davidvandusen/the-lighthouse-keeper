@@ -1,6 +1,6 @@
 # Setting: Harbour Town
 
-![Harbour Town Sketch](2017-04-28%20Harbour%20Town%20Sketch.jpg)
+![Harbour Town Sketch](../assets/Harbour%20Town%20Sketch.jpg)
 
 Set on the northwest coast, Harbour Town acts as a port to far off lands across the sea. To the south are sparsely
 populated lands that that deal in some trade, providing the residents of Harbour Town the yield of their farms in
@@ -42,4 +42,4 @@ Situated between two large warehouses at the docks is the Lighthouse Keeper Inn 
 will come to drink in the evenings. Stranger folks might feel more comfortable at this tavern than at the Closed Eye, as
 the establishment is more friendly to other races, vocations, and backgrounds.
 
-![Harbour Docks Sketch](2017-04-28%20Harbour%20Town%20Docks%20Sketch.jpg)
+![Harbour Docks Sketch](../assets/Harbour%20Town%20Docks%20Sketch.jpg)
