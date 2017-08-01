@@ -34,3 +34,4 @@ The various towns that are visited are described here.
 - 2017-07-11 - [Space Ghost](logs/2017-07-11%20Log%20-%20Space%20Ghost.md)
 - 2017-07-18 - [Water World War](logs/2017-07-18%20Log%20-%20Water%20World%20War.md)
 - 2017-07-19 - [I'm Talkin' About Shaft](logs/2017-07-19%20Log%20-%20I'm%20Talkin'%20About%20Shaft.md)
+- 2017-07-25 - [Dirty Dealings](logs/2017-07-25%20Log%20-%20Dirty%20Dealings.md)
